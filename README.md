@@ -6,6 +6,7 @@ I have always been fascinated by cryptography. Most people start coding because 
 
 * <a href=https://github.com/je-suis-tm/cryptography/blob/main/caesar%20cipher.ipynb>Caesar Cipher</a>
 * Enigma
+* <a href=https://github.com/je-suis-tm/cryptography/blob/main/vigenere%20cipher.ipynb>Vigenère Cipher</a>
 
 ## Transposition Cipher
 
